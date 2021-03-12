@@ -20,7 +20,7 @@
     <P>Glo-up is a platform aimed to aid women in finding a sense of style that suits them.<br>
          From finding the right products to use to the type of clothing that is suitable for their body-type e.t.c<br> 
         This is to enable them to rediscover themselves as many get caught up taking care of their families or their careers and businesses among many other things.</P>
-
+<h2>  NOTICE! NOTICE!</h2>
         <p> We have open positions and searching for suitable candidates to fill them. If interested please check out the link below <a href = "signup.php">Fill out details here</a>,
              fill in your details and our team will get back to you with further information.
               We are looking forward to get a new additional member to our team.</p>
